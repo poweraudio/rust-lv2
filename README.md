@@ -1,3 +1,11 @@
+**PowerAudio fork of Rust-LV2**
+
+This fork of Rust-LV2 has the following changes:
+
+* Added support for IBM Power (64-bit PowerPC).
+
+---
+
 # Rust-LV2
 
 [![Build Status][travis-badge]][travis-url] [![Current Crates.io Version][crates-badge]][crates-url]
